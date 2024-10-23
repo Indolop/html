@@ -4,3 +4,11 @@
     box-sizing: border-box;
 
 }
+
+.main-header{
+    text-align: centre;
+    font-family: monospace;
+    text-transform: uppercase;
+
+
+}
