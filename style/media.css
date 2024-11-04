@@ -1,0 +1,22 @@
+@media screen and (max-width:1200px) {
+    .card.active{
+        background: blue;
+    }
+}
+@media screen and (max-width:992px) {
+    .card.active{
+        background: red;
+    }
+    .product-heading{
+        text-align: center;
+    }
+    .product-header{
+        justify-content: center;
+        gap: 30px;
+    }
+}
+@media screen and (max-width:740px) {
+    .card.card,.active{
+        width: 90%;
+    }
+}
